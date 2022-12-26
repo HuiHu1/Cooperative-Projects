@@ -7,7 +7,7 @@
 
 3. Learning from self-reported Twitter data by FastText with sample selection bias correction. ACM Rocky Mountain Celebration of Women in Computing, 2018. [[Poster]](https://github.com/HuiHu1/Cooperative-Projects-on-Fairness-Topic/blob/main/Learning%20from%20self-reported%20Twitter%20data%20by%20FastText%20with%20sample%20selection%20bias%20correction.pdf).
 
-4. The Artful Craft of Improving Virtual Summer Camps in the Midst of COVID-19. [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DHXqmH8AAAAJ&sortby=pubdate&citation_for_view=DHXqmH8AAAAJ:ufrVoPGSRksC).
+4. The Artful Craft of Improving Virtual Summer Camps in the Midst of COVID-19. ASEE Annual Conference & Exposition, 2022. [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DHXqmH8AAAAJ&sortby=pubdate&citation_for_view=DHXqmH8AAAAJ:ufrVoPGSRksC).
 
 
 
