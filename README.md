@@ -8,7 +8,7 @@
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8995403).
 
 
-4. The Artful Craft of Improving Virtual Summer Camps in the Midst of COVID-19. ASEE Annual Conference & Exposition, 2022 [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7Z32zP8AAAAJ&sortby=pubdate&citation_for_view=7Z32zP8AAAAJ:Se3iqnhoufwC).
+4. The Artful Craft of Improving Virtual Summer Camps in the Midst of COVID-19. ASEE Annual Conference & Exposition, 2022 [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DHXqmH8AAAAJ&sortby=pubdate&citation_for_view=DHXqmH8AAAAJ:ufrVoPGSRksC).
 
 
 
